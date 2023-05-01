@@ -43,4 +43,3 @@ Se você tiver algum problema ao usar este projeto ou precisar de suporte, sinta
 # Conclusão
   --------- 
 Este projeto é uma ótima maneira de testar suas habilidades em diferentes tecnologias e ferramentas de desenvolvimento fullstack. Com este repositório, você pode praticar diferentes abordagens e técnicas de desenvolvimento, aprender com outros desenvolvedores e melhorar suas habilidades em geral.
-![image](https://user-images.githubusercontent.com/37906912/235408323-c121b8e8-be1d-4c1a-9e63-c97346c8333d.png)
