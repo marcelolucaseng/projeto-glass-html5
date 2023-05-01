@@ -1,0 +1,18 @@
+@charset "UTF-8";
+section#conteudo
+{
+	width: 1000px;
+	margin: auto;
+}
+iframe#frame-spec
+{
+	width: 400px;
+	height: 280px;
+	border:none; /*Removeu a borda*/
+	overflow: hidden; /*Evita que o documento seja movido(rolando p/ cima ou para baixo)*/
+}
+iframe#frame-spec::-webkit-scrollbar
+{
+	/* Removendo a barra de rolagem da esquerda e de baixo*/
+	display: none;
+}
